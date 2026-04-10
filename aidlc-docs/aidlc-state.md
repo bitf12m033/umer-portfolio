@@ -1,8 +1,9 @@
 # AI-SDLC State
 
 Current Phase: Operations
-Status: Live / Ready for Deployment
-Next Step: Deploy and monitor
+Status: Live on Vercel
+Production URL: https://umer-majeed.vercel.app
+Next Step: Monitor (analytics, errors); spot-check mobile after changes; optional custom domain
 
 Project: Personal Portfolio
 Owner: M. Umer Majeed
